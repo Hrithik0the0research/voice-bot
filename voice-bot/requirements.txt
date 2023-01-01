@@ -1,0 +1,10 @@
+streamlit 
+numpy
+pandas
+openpyxl
+tensorflow
+nltk
+random
+firebase_admin
+streamlit_lottie
+protobuf~=3.19.0

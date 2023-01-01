@@ -1,0 +1,9 @@
+streamlit 
+numpy
+pandas
+openpyxl
+tensorflow
+nltk
+pickle
+pydub
+deepspeech
